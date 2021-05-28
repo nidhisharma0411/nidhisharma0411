@@ -7,7 +7,30 @@
 * 👯 I’m looking to collaborate with other content creators
 
 
-<!---
-nidhisharma0411/nidhisharma0411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A little more about me
+
+const nidhi = {
+  pronouns: "She" | "Her",
+  code: ["Javascript", "Typescript", "C", "C#", "ECMA Script"],
+  askMeAbout: ["web dev", "tech"],
+  technologies: {
+    frontEnd: {
+      js: ["Angular12"],
+      css: ["materialize", "bootstrap"],
+    },
+    backEnd: {
+      js: ["nodejs", "expressjs"],
+      c#: [".net framework", ".net core"]
+    },
+    devOps: ["Azure"],
+    databases: ["MongoDB", "MySql", "PostgreSQL", "MSSQL"],
+  },
+  architecture: [
+    "N-tier Architecture",
+    "Progressive web applications",
+    "Single page applications",
+  ],
+  currentFocus: "Comptetive Programming using JavaScript",
+  funFact:
+    "The root is at the top of the tree",
+};
